@@ -1,0 +1,3 @@
+dataset,subtask,num_segments,total_frames,mean_frames
+0528_green_block_mem,put_green_block_to_plate,31,5344,172.39
+0528_yellow_block_mem,put_yellow_block_to_plate,30,5107,170.23

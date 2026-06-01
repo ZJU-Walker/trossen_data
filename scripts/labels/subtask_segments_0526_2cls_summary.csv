@@ -1,0 +1,5 @@
+dataset,subtask,num_segments,total_frames,mean_frames
+data_robot_give_0526,close,30,2283,76.10
+data_robot_give_0526,open,30,2698,89.93
+data_robot_pull_0526,close,30,2380,79.33
+data_robot_pull_0526,open,30,1522,50.73

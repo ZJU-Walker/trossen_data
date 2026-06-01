@@ -1,0 +1,98 @@
+[
+  {
+    "clip": "data_robot_give_0526_ep000000_open_f0-78_cam_high.mp4",
+    "dataset": "data_robot_give_0526",
+    "episode_id": "000000",
+    "subtask": "open",
+    "start_frame": 0,
+    "end_frame": 78,
+    "expected_frames": 79,
+    "actual_frames": 79,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_give_0526/videos/chunk-000/observation.images.cam_high/episode_000000.mp4"
+  },
+  {
+    "clip": "data_robot_give_0526_ep000000_close_f79-133_cam_high.mp4",
+    "dataset": "data_robot_give_0526",
+    "episode_id": "000000",
+    "subtask": "close",
+    "start_frame": 79,
+    "end_frame": 133,
+    "expected_frames": 55,
+    "actual_frames": 55,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_give_0526/videos/chunk-000/observation.images.cam_high/episode_000000.mp4"
+  },
+  {
+    "clip": "data_robot_give_0526_ep000001_open_f0-78_cam_high.mp4",
+    "dataset": "data_robot_give_0526",
+    "episode_id": "000001",
+    "subtask": "open",
+    "start_frame": 0,
+    "end_frame": 78,
+    "expected_frames": 79,
+    "actual_frames": 79,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_give_0526/videos/chunk-000/observation.images.cam_high/episode_000001.mp4"
+  },
+  {
+    "clip": "data_robot_give_0526_ep000001_close_f79-160_cam_high.mp4",
+    "dataset": "data_robot_give_0526",
+    "episode_id": "000001",
+    "subtask": "close",
+    "start_frame": 79,
+    "end_frame": 160,
+    "expected_frames": 82,
+    "actual_frames": 82,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_give_0526/videos/chunk-000/observation.images.cam_high/episode_000001.mp4"
+  },
+  {
+    "clip": "data_robot_pull_0526_ep000000_close_f0-100_cam_high.mp4",
+    "dataset": "data_robot_pull_0526",
+    "episode_id": "000000",
+    "subtask": "close",
+    "start_frame": 0,
+    "end_frame": 100,
+    "expected_frames": 101,
+    "actual_frames": 101,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_pull_0526/videos/chunk-000/observation.images.cam_high/episode_000000.mp4"
+  },
+  {
+    "clip": "data_robot_pull_0526_ep000000_open_f101-164_cam_high.mp4",
+    "dataset": "data_robot_pull_0526",
+    "episode_id": "000000",
+    "subtask": "open",
+    "start_frame": 101,
+    "end_frame": 164,
+    "expected_frames": 64,
+    "actual_frames": 64,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_pull_0526/videos/chunk-000/observation.images.cam_high/episode_000000.mp4"
+  },
+  {
+    "clip": "data_robot_pull_0526_ep000001_close_f0-88_cam_high.mp4",
+    "dataset": "data_robot_pull_0526",
+    "episode_id": "000001",
+    "subtask": "close",
+    "start_frame": 0,
+    "end_frame": 88,
+    "expected_frames": 89,
+    "actual_frames": 89,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_pull_0526/videos/chunk-000/observation.images.cam_high/episode_000001.mp4"
+  },
+  {
+    "clip": "data_robot_pull_0526_ep000001_open_f89-151_cam_high.mp4",
+    "dataset": "data_robot_pull_0526",
+    "episode_id": "000001",
+    "subtask": "open",
+    "start_frame": 89,
+    "end_frame": 151,
+    "expected_frames": 63,
+    "actual_frames": 63,
+    "fps": 30.0,
+    "source_video": "/iris/projects/humanoid/trossen_data/data_robot_pull_0526/videos/chunk-000/observation.images.cam_high/episode_000001.mp4"
+  }
+]

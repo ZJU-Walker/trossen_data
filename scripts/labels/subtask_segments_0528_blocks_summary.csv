@@ -1,0 +1,5 @@
+dataset,subtask,num_segments,total_frames,mean_frames
+0528_green_block_mem,observe_human,31,2178,70.26
+0528_green_block_mem,put_green_block_to_plate,31,3166,102.13
+0528_yellow_block_mem,observe_human,30,2176,72.53
+0528_yellow_block_mem,put_yellow_block_to_plate,30,2931,97.70
